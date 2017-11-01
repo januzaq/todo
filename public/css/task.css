@@ -1,0 +1,25 @@
+body{
+	background: #f9f9f9;
+}
+nav#header{
+	background: #fff;
+}
+button#add{
+	background: #6a67ce;
+	color: #fff;
+}
+
+button.delete{
+	background: #fc636b;
+	color: #fff;
+}
+button.delete:hover{
+	background: #ee4f4f;
+	color: #fff;
+}
+button.save,
+button.save:hover
+{
+	background: #6a67ce;
+	color: #fff;
+}
