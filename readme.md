@@ -5,4 +5,4 @@
 <p>composer install</p>
 <p>npm install</p>
 <p>php artisan migrate</p>
-<p>Kudaibergenov Zhanuzak</p>
+<p>Dev: Kudaibergenov Zhanuzak</p>
